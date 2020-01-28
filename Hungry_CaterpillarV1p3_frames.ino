@@ -1,5 +1,5 @@
 // ---- Hungry Caterpillar ----
-/* 
+/* Copyright 2019 Tom Millichamp
  *  A game based on the old snake game
  *  Tom Millichamp 29/12/2019
  *  Uses C++ Standard Library from https://github.com/maniacbug/StandardCplusplus
